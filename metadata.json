@@ -1,0 +1,6 @@
+{
+  "name": "## NAV Variation #2",
+  "description": "A minimalist, high-contrast MIDI navigation controller with gamepad layout, customizable step sizes, and MIDI learn capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
